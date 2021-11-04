@@ -2,7 +2,7 @@ asn1crypto==0.24.0
 attrs==19.3.0
 backcall==0.1.0
 chardet==3.0.4
-cryptography==3.3.2
+cryptography==3.4.8
 decorator==5.1.0
 defusedxml==0.6.0
 entrypoints==0.3
