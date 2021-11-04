@@ -45,7 +45,7 @@ qtconsole==4.5.1
 requests==2.20.0
 SecretStorage==2.3.1
 Send2Trash==1.5.0
-setuptools==41.0.1
+setuptools==41.6.0
 six==1.12.0
 terminado==0.8.2
 testpath==0.4.2
